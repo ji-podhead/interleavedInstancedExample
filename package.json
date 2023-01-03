@@ -1,0 +1,29 @@
+{
+  "name": "interleavedbuffer-example-for-threejs-react-fiber",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "9.48.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.2.0",
+    "react-spring": "9.6.1",
+    "react-three-fiber": "6.0.13",
+    "three": "0.148.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
